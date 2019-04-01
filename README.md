@@ -1,4 +1,4 @@
-# My `#collect`
+bundle install # My `#collect`
 
 ## Objectives
 
